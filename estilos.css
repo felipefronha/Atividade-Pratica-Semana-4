@@ -345,7 +345,7 @@ div.rodape {
     }
 
     .sobre .hero {
-        grid-template-columns: 1fr 1fr;
+            grid-template-columns: 1fr 1fr;
         /* 18. Grid de duas colunas iguais */
         /* FAZER AQUI*/
     }
@@ -362,7 +362,7 @@ div.rodape {
     }
 
     .card {
-        width: calc(50% - 0,75rem);
+        width: calc(50% - 0.75rem);
         /* 20. Largura de 50% do elemento pai, menos 0.75rem (use função calc() ) */
         /* FAZER AQUI*/
     }
